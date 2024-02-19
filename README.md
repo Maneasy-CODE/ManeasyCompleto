@@ -54,12 +54,6 @@ Maneasy, é um sistema de gerenciamento e alocação de profissionais de TI, per
      <td><a href="https://www.linkedin.com/in/priscila-laurentino-a2367061/"><img src="https://i.imgur.com/AKLwkB5.png" title="Linkedin" /></a></td>
  </tr>
 
-  <tr>
-       <td>Marcel de Lima Brito</td>
-       <td><a href="https://github.com/Marceldrum85"><img src="https://i.imgur.com/IM8RKWM.png" title="GitHub" /></a></td>
-       <td><a href="https://www.linkedin.com/in/marcel-lima-brito-6a407a273/"><img src="https://i.imgur.com/AKLwkB5.png" title="Linkedin" /></a></td>
-  </tr>
-
 </table>
 
 
